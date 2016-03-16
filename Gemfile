@@ -56,3 +56,6 @@ gem 'bootstrap-sass', '~> 3.2.0.2'
 
 # Devise for users
 gem 'devise', '~> 3.4.1'
+
+# Upload Images
+gem 'paperclip', '~> 4.2.0'
