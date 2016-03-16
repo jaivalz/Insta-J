@@ -62,3 +62,6 @@ gem 'paperclip', '~> 4.2.0'
 
 # Masonry jquery
 gem 'masonry-rails', '~> 0.2.4'
+
+# Votable
+gem 'acts_as_votable', '~> 0.10.0'
