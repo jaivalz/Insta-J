@@ -59,3 +59,6 @@ gem 'devise', '~> 3.4.1'
 
 # Upload Images
 gem 'paperclip', '~> 4.2.0'
+
+# Masonry jquery
+gem 'masonry-rails', '~> 0.2.4'
